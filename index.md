@@ -1,6 +1,5 @@
 # Data Analytics Portfolio
 
-**---**
 
 ### Data Visualization
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -19,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 [Project 3 Title](./another-page.html).
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-
+---
 ### Machine Learning Project
 
 [Project 4 Title](./another-page.html).
