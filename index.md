@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analysis Projects Portfolio
 
 
 ### Data Visualization
