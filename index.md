@@ -1,7 +1,11 @@
 # Data Science Projects Portfolio
 
+<p align="center">
+  
+### Web Scraping & Data Visualization Project 
 
-<center> ### Web Scraping & Data Visualization Project </center> 
+</p>  
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Webscraping](./another-page.html).
