@@ -3,12 +3,13 @@
 
 ### Web Scraping & Data Visualization Project 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+For my data science journey, I decided to practice various types of projects on my own using **RStudio** and other data analytics tools.
+I would like to start off with organizing a simple "Movie Rating" dataset by utilizing a _web-scraping_ tool, **"SelectorGadget"**.
 
-[Webscraping](./another-page.html).
+[Web-Scraping: Simple Movie Rating Dataset](./another-page.html).
 <img src=""/>
 
-[Project 2 Title](./another-page.html).
+[Data Visualization: Interactive Scatter Plot - Democracy & Health](./another-page.html).
 <img src=""/>
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
