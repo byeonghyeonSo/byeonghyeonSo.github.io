@@ -1,9 +1,23 @@
 # Data Science Projects Portfolio
 
+For my data science journey, I decided to practice various types of projects on my own by mainly using **RStudio**. Also, I occasionally utilize other data analytics tools such as Tableau, GIS software, and SQL depending on the purpose/needs of each project.
 
-### Web Scraping & Data Visualization Project 
+#### There are four major categories of data science projects in this portfolio:
 
-For my data science journey, I decided to practice various types of projects on my own using **RStudio** and other data analytics tools.
+*   Pre-Processing: Data Preparation & Cleaning.
+*   Data Visualization.
+*   Exploratory Data Analysis.
+*   Machine Learning & AI Modelling.
+
+---
+### Project A. Pre-Processing: Data Preparation & Cleaning
+
+In terms of my project time management, I spend more than 70% of the total solely by searching for the data, cleaning, and manipulating the datasets as part of my project preparation. During this time, I try to apply different perspectives and critical thinkings by brainstorming on _"what specific problems I should tackle down with the given data"_ and _"how I can extract actionable insights from the data"_.  
+
+
+### Project B. Data Visualization Projects 
+
+
 I would like to start off with organizing a simple "Movie Rating" dataset by utilizing a _web-scraping_ tool, **"SelectorGadget"**.
 
 [Web-Scraping: Simple Movie Rating Dataset](./another-page.html).
@@ -15,7 +29,7 @@ I would like to start off with organizing a simple "Movie Rating" dataset by uti
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ---
-### Exploratory Data Analysis
+### Project C. Exploratory Data Analysis Projects
 
   
 [City-Level Data Analysis: Low Fertility Rate in the Republic of Korea](https://github.com/byeonghyeonSo/byeonghyeonSo.github.io/blob/5ea971254ab9db2f8606f755fbea390fbb006a09/Final-Project.html).
@@ -27,7 +41,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ---
-### Machine Learning Project
+### Project D. Machine Learning Project
 
 [Project 4 Title](./another-page.html).
 > This is a blockquote following a header.
