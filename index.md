@@ -2,7 +2,7 @@
 
 For my data science journey, I decided to practice various types of projects on my own by mainly using **RStudio**. Also, I occasionally utilize other data analytics tools such as Tableau, GIS software, and SQL depending on the purpose/needs of each project.
 
-#### There are four major categories of data science projects in this portfolio:
+#### There are four major categories of my data science projects:
 
 *   Pre-Processing: Data Preparation & Cleaning.
 *   Data Visualization.
