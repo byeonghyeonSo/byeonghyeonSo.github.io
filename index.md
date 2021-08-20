@@ -14,14 +14,14 @@ For my data science journey, I decided to practice various types of projects on 
 
 In terms of my project time management, I spend more than 70% of the total solely by searching for the data, cleaning, and manipulating the datasets as part of my project preparation. During this time, I try to apply different perspectives and critical thinkings by brainstorming on _"what specific problems I should tackle down with the given data"_ and _"how I can extract actionable insights from the data"_.  
 
-
-### Project B. Data Visualization Projects 
-
-
 I would like to start off with organizing a simple "Movie Rating" dataset by utilizing a _web-scraping_ tool, **"SelectorGadget"**.
 
 [Web-Scraping: Simple Movie Rating Dataset](./another-page.html).
 <img src=""/>
+
+
+### Project B. Data Visualization Projects 
+
 
 [Data Visualization: Interactive Scatter Plot - Democracy & Health](./another-page.html).
 <img src=""/>
