@@ -1,10 +1,7 @@
 # Data Science Projects Portfolio
 
-<p align="center">
-  
-### Web Scraping & Data Visualization Project 
 
-</p>  
+### Web Scraping & Data Visualization Project 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -19,8 +16,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ---
 ### Exploratory Data Analysis
 
+<p align="center">
 [City-Level Data Analysis: Low Fertility Rate in South Korea](https://github.com/byeonghyeonSo/byeonghyeonSo.github.io/blob/5ea971254ab9db2f8606f755fbea390fbb006a09/Final-Project.html).
 <img src="https://github.com/byeonghyeonSo/byeonghyeonSo.github.io/blob/main/GettyImages_748319837.0.jpg?raw=true"/>
+</p>
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
