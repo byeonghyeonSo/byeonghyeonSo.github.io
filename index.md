@@ -1,4 +1,4 @@
-# Data Analysis Projects Portfolio
+# Data Science Projects Portfolio
 
 
 ### Data Visualization
