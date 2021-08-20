@@ -1,10 +1,10 @@
 # Data Science Projects Portfolio
 
 
-### Data Visualization
+### Web Scraping & Data Visualization Project 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Project 1 Title](./another-page.html).
+[Webscraping](./another-page.html).
 <img src=""/>
 
 [Project 2 Title](./another-page.html).
