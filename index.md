@@ -16,9 +16,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ---
 ### Exploratory Data Analysis
 
-<p align="center">
+  
 [City-Level Data Analysis: Low Fertility Rate in South Korea](https://github.com/byeonghyeonSo/byeonghyeonSo.github.io/blob/5ea971254ab9db2f8606f755fbea390fbb006a09/Final-Project.html).
-</p>
 
 <p align="center">
 <img src="https://github.com/byeonghyeonSo/byeonghyeonSo.github.io/blob/main/GettyImages_748319837.0.jpg?raw=true"/>
